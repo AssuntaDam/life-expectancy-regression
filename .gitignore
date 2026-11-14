@@ -1,0 +1,16 @@
+# Data (not tracked)
+
+*.csv
+*.xlsx
+data/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Ruserdata
+
+# OS / editors
+.DS_Store
+Thumbs.db
