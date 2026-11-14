@@ -2,7 +2,7 @@
 
 Multiple linear regression model of life expectancy across countries, built and validated in R, with a full diagnostic workflow (collinearity, normality, Box-Cox transformation, leverage, residuals, Cook's distance) and a prediction test on a different year.
 
-> **Group project** (team of five) developed for the course *Statistical Inference*, BSc in Mathematical Engineering, Politecnico di Milano. **My contribution:** the leverage analysis (hat values, threshold 2p/n, high-leverage countries and their effect on the coefficients).
+> **Group project** (team of five) developed for the course *Statistical Inference*, BSc in Mathematical Engineering, Politecnico di Milano. 
 
 ## Goal
 
